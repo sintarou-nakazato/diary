@@ -1,0 +1,11 @@
+.form__wrapper{
+  min-height: calc(100vh - 161px);
+}
+
+.form__text {
+  width: 50%;
+}
+
+.field{
+  margin: 10px 0;
+}
